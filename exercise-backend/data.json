@@ -1,0 +1,45 @@
+{
+  "categories": {
+    "Lower Body": [
+      "Squats",
+      "Lunges"
+    ],
+    "Upper Body": [
+      "Push-ups",
+      "Pull-ups"
+    ],
+    "Core": [
+      "Planks",
+      "Crunches"
+    ]
+  },
+  "programs": [
+    {
+      "exercises": [
+        {
+          "name": "Push-ups",
+          "sets": "1",
+          "reps": "3",
+          "holdTime": "1",
+          "side": "Left"
+        },
+        {
+          "name": "Push-ups",
+          "sets": "1",
+          "reps": "3",
+          "holdTime": "1",
+          "side": "Right"
+        }
+      ],
+      "sessionsPerDay": "2",
+      "days": {
+        "M": true,
+        "T": true,
+        "W": false,
+        "F": false,
+        "S": false
+      },
+      "therapistNotes": "good body result of good work"
+    }
+  ]
+}
